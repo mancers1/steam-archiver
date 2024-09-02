@@ -7,7 +7,9 @@ This Tampermonkey script adds a button to archive Steam profiles from backpack.t
 1. Install Tampermonkey extension in your browser.
 2. Click on the Tampermonkey extension icon and select "Create a new script..."
 3. Copy and paste the contents of `steam-profile-archiver.user.js` into the editor.
-4. Save the script and ensure it’s enabled.
+4.  Save the script and ensure it’s enabled.
+5. Copy and paste the contents of 'steam-profile-archiver-reports.user.js' into a new script editor
+6. Save the script and ensure it’s enabled.
 
 ## Usage
 
