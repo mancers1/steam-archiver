@@ -12,3 +12,4 @@ This Tampermonkey script adds a button to archive Steam profiles from backpack.t
 ## Usage
 
 Navigate to a profile page on backpack.tf, and the button will appear in the bottom right of the "Additional User Information" box.
+Additionally, you can navigate to an issue report and the button will appear next to the title.
